@@ -1,0 +1,23 @@
+.venv/
+venv/
+.kaggle_jobs/
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# 本地凭据
+.env
+.kaggle/
+kaggle.json
+access_token
+*.pem
+*.key
+
+# 音色样本与生成音频（含个人声音，不入库）
+voice/
+*.wav
+*.mp3
+*.MP3
+*.m4a

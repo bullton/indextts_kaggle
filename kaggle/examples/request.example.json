@@ -1,0 +1,10 @@
+{
+  "text": "你好，这是通过 Kaggle API 运行的 IndexTTS2 语音克隆测试。",
+  "voice_path": "/kaggle/input/indextts-request/voice.wav",
+  "emo_alpha": 1.0,
+  "max_text_tokens_per_segment": 120,
+  "use_fp16": true,
+  "output_name": "audio.wav",
+  "repo_ref": "v2.0.0",
+  "model_repo": "IndexTeam/IndexTTS-2"
+}
